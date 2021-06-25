@@ -1,1 +1,1 @@
-# Bussiness-blog
+# Business-blog
